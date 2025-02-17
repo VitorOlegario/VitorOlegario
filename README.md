@@ -18,6 +18,8 @@ ___negrito e italico___
 
 [Texto da imagem](https://png.pngtree.com/background/20230613/original/pngtree-view-of-the-outer-space-with-all-the-planets-picture-image_3403234.jpg)
 
+![Texto da imagem](https://png.pngtree.com/background/20230613/original/pngtree-view-of-the-outer-space-with-all-the-planets-picture-image_3403234.jpg)
+
 <!--
 **VitorOlegario/VitorOlegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
