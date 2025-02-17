@@ -1,6 +1,6 @@
 ## Welcome to my GitHub 
 
-<center><h2>___ Welcome to my GitHub ___ </h2></center>
+<center><h2> Welcome to my GitHub </h2></center>
 
 <!--
 **VitorOlegario/VitorOlegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
