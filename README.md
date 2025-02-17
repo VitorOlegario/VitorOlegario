@@ -1,6 +1,9 @@
-## Welcome to my GitHub 
+## Welcome to my GitHub
 
-<center><h2> Welcome to my GitHub </h2></center>
+![](https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif)
+
+
+
 
 <!--
 **VitorOlegario/VitorOlegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
