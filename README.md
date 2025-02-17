@@ -23,7 +23,7 @@ ___negrito e italico___
 > Texto Citação
 
 | Cabeçalho 1 | Cabeçalho 2 |
-| ----------- | ----------- |
+|------------ | ------------|
 
 <!--
 **VitorOlegario/VitorOlegario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
