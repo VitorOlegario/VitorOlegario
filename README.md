@@ -9,7 +9,7 @@ r>
 
 [That´s my LinkedIn Page](https://www.linkedin.com/in/vitor-olegario-286a42139/?originalSubdomain=br)
 
-![Vitor github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=VitorOlegario)
 
 
 <!--
