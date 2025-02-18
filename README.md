@@ -1,8 +1,15 @@
+r>
 ## Welcome to my GitHub
 
-![](https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif)
+![Gif Jarvis](https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif)
 
+😎 Hello my name is Vitor Olegario <br>
+👷 I´m acctualy working as a Technical leader <br>
+🎒 I´m acctualy studing Software Engennering <br>
 
+[That´s my LinkedIn Page](https://www.linkedin.com/in/vitor-olegario-286a42139/?originalSubdomain=br)
+
+![Vitor github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 
 <!--
