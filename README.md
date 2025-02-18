@@ -7,6 +7,9 @@ r>
 👷 I´m acctualy working as a Technical leader <br>
 🎒 I´m acctualy studing Software Engennering <br>
 
+>Esse é um perfil em desenvolvimento, então estarei melhorando a cada dia😎.
+
+
 [That´s my LinkedIn Page](https://www.linkedin.com/in/vitor-olegario-286a42139/?originalSubdomain=br)
 
 ![Vitor github stats](https://github-readme-stats.vercel.app/api?username=VitorOlegario)
