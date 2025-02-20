@@ -1,4 +1,3 @@
-r>
 ## Welcome to my GitHub
 
 ![Gif Jarvis](https://i.gifer.com/origin/a9/a9176696b8740c402d84b55374ea0107_w200.gif)
@@ -7,7 +6,7 @@ r>
 👷 I´m acctualy working as a Technical leader <br>
 🎒 I´m acctualy studing Software Engennering <br>
 
->Esse é um perfil em desenvolvimento, então estarei melhorando a cada dia😎.
+>That´s a devoloping profile, I´ll upgrade more and more every day😎.
 
 
 [That´s my LinkedIn Page](https://www.linkedin.com/in/vitor-olegario-286a42139/?originalSubdomain=br)
